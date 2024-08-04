@@ -70,7 +70,7 @@ client.login(process.env.TOKEN);
 
 module.exports = client;
 
-setMaxListeners(5)
+process.setMaxListeners(10);
 
 /*
 
