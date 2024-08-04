@@ -1,8 +1,8 @@
 module.exports = {
-  ownerID: '730462592279117843',
+  ownerID: 'YOUR_OWNER_ID',
   token: process.env.TOKEN,
   embedColor: '#FF0000',
-  geniusToken: 'MTI2MTg4ODkwNjYxMDM0ODA0Mw.GwvrrT.cg3BQTeJgCcXag9qZyAQefy1PCZnNZw_6cdGUg',
+  geniusToken: '0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf',
   language: 'en',
   // Language: English (en)
 // Language: Japanese (jp)
