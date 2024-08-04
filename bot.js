@@ -2,7 +2,6 @@ require('dotenv').config();
 const { Client, GatewayIntentBits, Collection } = require('discord.js');
 const fs = require('fs');
 const config = require('./config');
-const { DisTube } = require('distube');
 const { SpotifyPlugin } = require('@distube/spotify');
 const { YtDlpPlugin } = require('@distube/yt-dlp');
 const { SoundCloudPlugin } = require('@distube/soundcloud');
